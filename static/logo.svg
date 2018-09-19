@@ -1,0 +1,30 @@
+<svg
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  id="home-logo-svg"
+  viewBox="0 0 622.14262 622.14257"
+  height="120px"
+  width="120px"
+>
+  <g transform="translate(2.0517316,-0.24231504)" id="layer1">
+    <ellipse
+      ry="296.97894"
+      rx="297.3071"
+      cy="312.0018"
+      cx="309.70776"
+      id="path3367-6"
+      style="opacity:1;fill:none;fill-opacity:1;stroke:#fff;stroke-width:9.1;stroke-miterlimit:4;stroke-dasharray:2000;stroke-opacity:1"
+    />
+    <path
+      id="path4194-7"
+      d="m 120.4332,240.41926 95.16729,0 c 61.63783,11.82323 75.06983,118.41259 0,144.96164 l -95.40112,0"
+      style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:54.08769608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1000;stroke-opacity:1"
+    />
+    <path
+      id="path4194-3-5"
+      d="m 500.13516,239.97393 0,95.16729 c -11.82323,61.63783 -118.41259,75.06983 -144.96164,0 l 0,-95.40112"
+      style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:54.08769608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1000;stroke-opacity:1"
+    />
+  </g>
+</svg>

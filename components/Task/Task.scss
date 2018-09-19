@@ -1,0 +1,72 @@
+.taskItem {
+  transition:background-color 0.6s ease-in-out;
+  border-bottom: 1px solid #e7e7e7;
+  background-color:#e0e0e0;
+  cursor:pointer;
+  font-size:0.9em;
+  line-height:1.9em;
+}
+
+.tasks div:last-child .taskItem {
+  border-bottom: none;
+}
+
+.taskItemInner {
+  transition:transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  padding:50px 0 50px 15px;
+  background-color:#fff;
+}
+
+.taskItemDone {
+  background-color: #a3d771;
+}
+
+.taskItemDone .taskItemInner {
+  transform:translateX(10px);
+  opacity:0.9;
+}
+
+.taskEstimatedTime {
+  float:right;
+  color:#888;
+  font-size:12px;
+  margin-right:15px;
+}
+
+.taskItem h2,
+.taskItem h3 {
+  margin:0 0 10px 0;
+  font-size:1.4em;
+  font-weight:normal;
+}
+
+.taskItem:hover .check {
+  color: #669043;
+}
+
+.taskDescription {
+  white-space: pre-wrap;
+  color:#565656;
+}
+
+.taskReason {
+  white-space: pre-wrap;
+  margin-top:15px;
+  color:#c48425;
+}
+
+button.deleteButton {
+  float:right;
+  border:1px solid #ff0000;
+  color:#ff0000;
+  background:#fff;
+  padding:3px 5px;
+  font-size:0.7em;
+  opacity:0.5;
+  transition:opacity 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover.deleteButton {
+  opacity:1;
+}
