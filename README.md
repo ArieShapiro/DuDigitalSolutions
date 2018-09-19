@@ -34,7 +34,7 @@ We have created an example ReactJS application. The application shows a list of 
 
 Clone this repository, install all the node modules and then start the react server:
 
-Run `yarn dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+Run `yarn dev` to start the dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
 ## Running tests
 
