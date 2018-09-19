@@ -22,7 +22,7 @@ We have created an example ReactJS application. The application shows a list of 
 
 * **Take a look at the tasks and try to solve as many as possible.**
     Some should be pretty easy, others are a little more complicated.
-    Don't worry or get frustrated if you can't solve all of them. We don't know everything either, that's why we organize regular trainings, go to meetups and work on fun projects. This helps us to keep up with latest technology and also learn more complex stuff.
+    Don't worry or get frustrated if you can't solve all of them. We don't know everything either. This helps us to keep up with latest technology and also learn more complex stuff.
 * **Solve the tasks**
 
 * **Zip the result and attach it to an email**
